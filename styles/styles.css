@@ -5,7 +5,7 @@
 
 .banner-img {
     width: 635px;
-    height: 710px;
+    height: 705px;
     margin-top: 37px;
     padding-right: 60px;
 
@@ -197,7 +197,7 @@
     color: #FFFFFF;
 }
 .footer-description {
-    color: rgba(255, 255, 255, 0.90);
+    color: rgba(196, 186, 186, 0.9);
     text-align: center;
     font-size: 18px;
     font-weight: 400;
