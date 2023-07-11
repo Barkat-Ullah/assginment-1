@@ -155,7 +155,12 @@
 }
 
 .panel-images {
-    margin: 15px 69px;
+    margin-left:245px ;
+    gap: 11px;
+    width: 385px;
+    height: 290px;
+    display: flex;
+    padding-top: 15px;
 }
 
 .message-container {
@@ -209,4 +214,5 @@
     text-align: center;
     font-size: 16px;
     font-weight: 400;
+    padding-top: 4px;
 }
